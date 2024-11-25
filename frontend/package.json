@@ -1,0 +1,25 @@
+{
+  "name": "sarath-to-do",
+  "version": "1.0.0",
+  "description": "To-do ap",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarath33/to-do.git"
+  },
+  "keywords": [
+    "to-do"
+  ],
+  "author": "sarath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarath33/to-do/issues"
+  },
+  "homepage": "https://github.com/Sarath33/to-do#readme",
+  "devDependencies": {
+    "parcel": "^2.13.1"
+  }
+}
